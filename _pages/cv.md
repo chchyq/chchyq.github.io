@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.E. in  Information Security, South China University of Technology (SCUT), 2021
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-Present: Smart Contract Vulnerability Detection, SCUT
+  * Research Assistant
+  * Used n-gram algorithm for feature extraction from simplified operation codes of smart contracts.
+  * Applied Long Short Term Memory (LSTM) networks to build the vulnerability detection models.
+  * Supervisor: Professor Lu Lu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: JPEG Image Encryption, SCUT
+  * Research Assistant
+  * Researched on the methods of JPEG image encryption based on bitstream for improved format compatibility.
+  * Proposed an adaptive encryption key construction method to defeat known plaintext attack.
+  * Designed a software of picture viewing with various image processing functions.
+  * Supervisor: Professor Junhui He
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018-2019: Blockchain Infrastructure Research and Application, SCUT
+  * Research Assistant
+  * Collaborated with graduates to construct a blockchain project to realize the bank notarization application.
+  * Developed blockchain smart contracts and deployed on Hyperledger Fabric.
+  * Researched on modifiable blockchain technology by using Distributed Random Generation (DRG) protocol.
+  * Supervisor: Professor Shaohua Tang
 
-Publications
+Awards and honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Second prize in Wechat App Development Competition of South China 2020
+* Third prize in Chinese Collegiate Computing Competition 2020
+* Anjubao Scholarship (4 out of 49, 8.2%)  2020
+* Merit student of SCUT 2020
+* Outstanding student cadres of SCUT 2020
+* Third prize in Contemporary Undergraduate Mathematical Contest in Modeling in China 2019
+* Third prize in Youth Talents International Innovation and Entrepreneurship Competition 2019
+* One star volunteer in Guangdong Province 2019
+* Excellent secretary of Computer Science and Engineering Student Union 2018
+
+Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Monitor of Information Security class 2017-2021
+* Vice Minister of Academic and Research Department, Red Keyboard Organization 2018-2021
+* Secretary of Public Relations Department, Computer Science and Engineering Student Union 2017-2018
