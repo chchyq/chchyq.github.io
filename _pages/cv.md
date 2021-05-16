@@ -18,10 +18,11 @@ Research experience
 ======
 * 2021-Present: Smart Contract Vulnerability Detection, SCUT
   * Research Assistant
-  * Used n-gram algorithm for feature extraction from simplified operation codes of smart contracts.
-  * Applied Long Short Term Memory (LSTM) networks to build the vulnerability detection models.
+  * Proposed to develop a system which could detect vulnerabilities in smart contracts with machine learning.
+  * Simplified datasets of smart contracts by turning bycodes into opcodes and abstracted the features.
+  * Applied Long Short-Term Memory (LSTM) and Transformer model to build the vulnerability detection models.
   * Supervisor: Professor Lu Lu
-
+  
 * 2019: JPEG Image Encryption, SCUT
   * Research Assistant
   * Researched on the methods of JPEG image encryption based on bitstream for improved format compatibility.
