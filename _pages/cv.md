@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.E. in  Information Security, South China University of Technology (SCUT), 2021
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Research experience
 ======
