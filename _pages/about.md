@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Erica, a senior undergraduate student majoring in information security in School of Computer Science and Engineering, South China University of Technology.
+Hi! My name is Erica, a graduate student majoring in computer science and technology in School of Computer Science and Engineering, South China University of Technology.
 
 Life
 ======
