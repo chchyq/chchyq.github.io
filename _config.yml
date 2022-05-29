@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yingqing Chen"
 title_separator          : "-"
 name                     : &name "Yingqing Chen"
-description              : &description "Senior Undergraduate at South China University of Technology (SCUT)"
+description              : &description "Graduate student at South China University of Technology (SCUT)"
 url                      : https://chchyq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chchyq/chchyq.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yingqing Chen"
   avatar           : "profile.jpg"
-  bio              : "Senior Undergraduate at South China University of Technology (SCUT)"
+  bio              : "Graduate at South China University of Technology (SCUT)"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
