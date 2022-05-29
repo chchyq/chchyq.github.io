@@ -12,10 +12,17 @@ redirect_from:
 Education
 ======
 * B.E. in  Information Security, South China University of Technology (SCUT), 2021
+* First-year MS student in Computer Science and Technology, South China University of Technology (SCUT), 2021-2022
+* Incoming MS student in Data Science, Nantes University, 2022-2023
 
 Research experience
 ======
-* 2021-Present: Smart Contract Vulnerability Detection, SCUT
+* 2022-Present: Homomorphic Encryption and the BGN Cryptosystem, SCUT
+  * Research Assistant
+  * Proposed to develop a homomorphic encryption method with BGN Cryptosystem.
+  * Supervisor: Professor Haotian Wu
+
+* 2021: Smart Contract Vulnerability Detection, SCUT
   * Research Assistant
   * Proposed to develop a system which could detect vulnerabilities in smart contracts with machine learning.
   * Simplified datasets of smart contracts by turning bycodes into opcodes and abstracted the features.
@@ -52,7 +59,7 @@ Other Projects
 
 Awards and honors
 ======
-
+* Advanced individual of SCUT 2022
 * Second prize in Wechat App Development Competition of South China 2020
 * Third prize in Chinese Collegiate Computing Competition 2020
 * Anjubao Scholarship (4 out of 49, 8.2%)  2020
