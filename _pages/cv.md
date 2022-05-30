@@ -72,6 +72,7 @@ Awards and honors
 
 Activities
 ======
+* Vice monitor of Computer Science and Technology class 2022
 * Monitor of Information Security class 2017-2021
 * Vice Minister of Academic and Research Department, Red Keyboard Organization 2018-2021
 * Secretary of Public Relations Department, Computer Science and Engineering Student Union 2017-2018
